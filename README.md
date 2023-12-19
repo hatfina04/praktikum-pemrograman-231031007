@@ -1,5 +1,5 @@
 # Praktikum Pengantar Pemrograman
-<div> Nama: Hatfina Rustammin </div>
+<div> Nama: Hatfina Rustamin </div>
 <div> NIM: 231031007 </div>
 <div> Prodi: Sistem Informasi A </div>
 
