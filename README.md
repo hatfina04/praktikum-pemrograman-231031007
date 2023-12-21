@@ -12,4 +12,7 @@
 * Praktikum a7: Mengimplementasikan Mekanisme Login dengan Batasan Jumlah Percobaan `praktikum-a7.py`
 * Praktikum a8: Mengimplementasikan Mekanisme Login dengan Batasan Jumlah Percobaan dan Halaman yang Berbeda-beda `praktikum-a8.py`
 * Praktikum a9: Menghitung Luas dan Keliling Bangun Datar Persegi `praktikum-a9.py`
-* Praktikum a10: 
+* Praktikum a10: Implementasi dari Dua Fungsi Rekursif `praktikum-a10.py`
+* Praktikum a11: Fungsi Rekursif untuk Menghitung Nilai Deret Fibonacci
+* Tugas a3: Manipulasi String Pada Beberapa Variabel String `tugas-a3.py`
+* 
